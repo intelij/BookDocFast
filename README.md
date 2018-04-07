@@ -1,2 +1,1 @@
-# HelpingEmergencyRecoveryOperations
-HERO helps you Create A handy Document To Keep Your Loved Ones Informed. If Worst comes to worst  If you were hit by a bus today or were otherwise incapacitated, would your loved ones be able to quickly locate your important information or know how to handle your affairs?  Our app aims to arm you with a master information kit to keep handy in case of any emergency.
+HERO is a one stop solution for emergency medical needs.The solutions delivered by us eliminate the gap between patients and doctors. They give patients the flexibility to book their appointment with the doctor in their neighborhood. 
