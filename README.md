@@ -1,1 +1,1 @@
-HERO is a one stop solution for emergency medical needs.The solutions delivered by us eliminate the gap between patients and doctors. They give patients the flexibility to book their appointment with the doctor in their neighborhood. 
+BookDocFast is a one stop solution for emergency medical needs.The solutions delivered by us eliminate the gap between patients and doctors. They give patients the flexibility to book their appointment with the doctor in their neighborhood. 
