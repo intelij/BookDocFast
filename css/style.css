@@ -1,0 +1,104 @@
+#back-button{
+	float:left;
+}
+
+.results-panel:hover{
+	color: #ecf0f1;
+	background-color: #3498db;
+}
+.results-panel {
+	color: #333333;
+	line-height: 130%;
+}
+
+#map-canvas{
+	height: 450px;
+}
+
+#confirmation-content{
+	text-align: center;
+}
+body{
+	background-color: #eaedf1;
+	font-family: 'Open Sans', sans-serif;
+
+}
+.row{
+	background-color: white;
+	margin-top: 30px;
+	padding: 10px;
+}
+h1{
+
+}
+#descriptionOfProblem{
+	height: 200px;
+}
+
+#submitButton{
+	width: 100%;
+	background-color: #4D8C62;
+
+}
+#submitButton:hover{
+	background-color: #437A56;
+}
+
+.profileImg {
+	width:120px;
+	height:120px;
+}
+.docDetails {
+	float:left;
+}
+
+
+.accordion dd > a{
+	background-color: #85D2FF;
+}
+
+#wrapper {
+	margin: 20px;
+}
+
+#login-wrapper{
+	width: 400px;
+	margin: 0 auto;
+}
+
+#header{
+	text-align: center;
+	padding:20px;
+	padding-bottom: 0px;
+}
+
+#search-button{
+	width: 100%;
+	background-color: #1abc9c;
+}
+
+#free{
+	float:right;
+	background-color:#3498db;
+	color: white;
+	margin-top: 0;
+	padding:10px;
+	position: absolute;
+	top:0;
+	right: 5;
+
+}
+#form{
+	position: relative;
+}
+
+#spec-error{
+	background-color: red;
+}
+
+#selectDoctor{
+	float:right;
+}
+#confirmation-details{
+	width:50%;
+}
